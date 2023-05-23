@@ -1,0 +1,21 @@
+﻿<Window x:Class="Wpf_Passwordbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Passwordbox"
+        mc:Ignorable="d"
+        Title="PasswordBox" Height="350" Width="500">
+    
+    
+    <StackPanel Margin="5">
+
+        <Label FontSize="25" > Name: </Label>
+        <TextBox FontSize="25" ToolTip="Please enter 8 characters."></TextBox>
+        <Label FontSize="25"> Password:</Label>
+        <PasswordBox FontSize="25" PasswordChar="*" MaxLength="8"
+          SelectionBrush="Aqua" CaretBrush="Red" 
+          Foreground="BlueViolet"></PasswordBox>
+        
+    </StackPanel>
+</Window>

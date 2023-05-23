@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\bin\Debug\Wpf_WrapPanel.exe.config
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\bin\Debug\Wpf_WrapPanel.exe
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\bin\Debug\Wpf_WrapPanel.pdb
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\App.g.cs
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel_MarkupCompile.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel_MarkupCompile.lref
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.g.resources
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.Properties.Resources.resources
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.exe
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_WrapPanel\Wpf_WrapPanel\obj\Debug\Wpf_WrapPanel.pdb

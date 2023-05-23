@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\bin\Debug\Wpf_CatYears_Example.exe.config
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\bin\Debug\Wpf_CatYears_Example.exe
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\bin\Debug\Wpf_CatYears_Example.pdb
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\MainWindow.g.cs
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\App.g.cs
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example_MarkupCompile.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example_MarkupCompile.lref
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\MainWindow.baml
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.g.resources
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.Properties.Resources.resources
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.exe
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_CatYears_Example\Wpf_CatYears_Example\obj\Debug\Wpf_CatYears_Example.pdb

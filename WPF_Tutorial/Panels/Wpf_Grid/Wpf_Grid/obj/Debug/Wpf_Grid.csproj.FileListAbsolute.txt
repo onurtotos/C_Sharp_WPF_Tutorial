@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\bin\Debug\Wpf_Grid.exe.config
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\bin\Debug\Wpf_Grid.exe
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\bin\Debug\Wpf_Grid.pdb
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\MainWindow.g.cs
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\App.g.cs
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid_MarkupCompile.cache
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid_MarkupCompile.lref
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\MainWindow.baml
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.g.resources
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.Properties.Resources.resources
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.exe
+C:\Users\onurt\source\repos\WPF_Tutorial\Wpf_Grid\Wpf_Grid\obj\Debug\Wpf_Grid.pdb

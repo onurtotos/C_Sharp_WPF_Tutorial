@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wpf_RadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_RadioButton"
+        mc:Ignorable="d"
+        Title="RadioButton" Height="250" Width="500">
+    <StackPanel>
+
+        <Label FontWeight="Bold"> Who do you vote for?</Label>
+        <RadioButton GroupName="Presidents" VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Height="30" Source="https://cdn.britannica.com/89/164789-050-D6B5E2C7/Barack-Obama-2012.jpg?w=400;h=300;c=crop"/>
+                <Label> OBAMA</Label>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton GroupName="Presidents" Unchecked="RadioButton_Unchecked" Checked="RadioButton_Checked">
+            <Label x:Name="lbtrump">TRUMP</Label> 
+        </RadioButton>
+        <RadioButton GroupName="Presidents" IsChecked="True"> ERDOGAN</RadioButton>
+        <RadioButton GroupName="Presidents"> BIDEN</RadioButton>
+
+        <Label FontWeight="Bold">How do you feel about it?</Label>
+        <RadioButton GroupName="Feelings"> Great</RadioButton>
+        <RadioButton GroupName="Feelings"> OK</RadioButton>
+        <RadioButton GroupName="Feelings"> Not Happy</RadioButton>
+
+    </StackPanel>
+</Window>

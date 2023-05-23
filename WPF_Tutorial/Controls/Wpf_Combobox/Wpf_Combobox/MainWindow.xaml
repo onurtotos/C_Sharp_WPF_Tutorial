@@ -1,0 +1,25 @@
+﻿<Window x:Class="Wpf_Combobox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Combobox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="400">
+    <Grid>
+        <ComboBox Height = "20" Width = "100" HorizontalAlignment = "Left" Margin = "116,77,0,212">
+            <ComboBoxItem Content = "Item #1"/>
+            <ComboBoxItem Content = "Item #2"/>
+            <ComboBoxItem Content = "Item #3"/>
+        </ComboBox>
+        <StackPanel>
+        <ComboBox x:Name="myCombobox" IsEditable = "True" Height = "20" Width = "100" HorizontalContentAlignment="Left"
+            HorizontalAlignment = "Right" Margin = "50,177,180,212" >
+            <ComboBoxItem Content = "Item #1"/>
+            <ComboBoxItem Content = "Item #2"/>
+            <ComboBoxItem Content = "Item #3"/>
+        </ComboBox>
+        </StackPanel>
+
+    </Grid>
+</Window>

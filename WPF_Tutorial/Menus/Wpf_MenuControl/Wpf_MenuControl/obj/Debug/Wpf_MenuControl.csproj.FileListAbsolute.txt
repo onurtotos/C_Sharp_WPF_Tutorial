@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\MainWindow.g.cs
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\App.g.cs
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl_MarkupCompile.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl_MarkupCompile.lref
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\bin\Debug\Wpf_MenuControl.exe.config
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\bin\Debug\Wpf_MenuControl.exe
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\bin\Debug\Wpf_MenuControl.pdb
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\MainWindow.baml
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.g.resources
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.Properties.Resources.resources
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.exe
+C:\Users\onurt\source\repos\WPF_Controls\Wpf_MenuControl\Wpf_MenuControl\obj\Debug\Wpf_MenuControl.pdb

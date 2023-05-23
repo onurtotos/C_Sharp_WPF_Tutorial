@@ -1,0 +1,35 @@
+﻿<Window x:Class="Wpf_Textbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Textbox"
+        mc:Ignorable="d"
+        Title="TextBox" Height="300" Width="400">
+    <StackPanel>
+        <TextBox 
+            FontSize="30" 
+            Margin="5 15 5 5"
+            AcceptsReturn="True"
+            TextWrapping="Wrap"
+            SpellCheck.IsEnabled="True"
+            Language="TR"
+            Background="AliceBlue"
+            Foreground="Red"
+            IsReadOnly="False"
+            CharacterCasing="Upper"
+            MaxLength="500"
+            MinLines="1" 
+            MaxLines="5"
+            TextAlignment="Center"
+            SelectedText="Fener"
+            TextDecorations="Strikethrough"
+            Typography.MathematicalGreek="True"
+            Typography.NumeralStyle="OldStyle"
+            Typography.Fraction="Stacked"
+            Typography.Variants="Inferior"
+            />
+        
+    </StackPanel>
+ 
+</Window>

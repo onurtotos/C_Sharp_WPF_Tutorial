@@ -1,0 +1,79 @@
+﻿<Window x:Class="Wpf_Checkboxes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Checkboxes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="450">
+    <StackPanel>
+
+        <Label FontWeight="Bold"> Toppings</Label>
+        <CheckBox x:Name="cbParent" IsThreeState="True"
+                  Checked="cbParentCheckedChanged"
+                  Unchecked="cbParentCheckedChanged">
+            Select All
+        </CheckBox>
+        <CheckBox x:Name="cbCheese" VerticalContentAlignment="Center"
+                 Unchecked="cbTopingsCheckedChanged" Checked="cbTopingsCheckedChanged" 
+                   Margin="15 5">
+            <WrapPanel>
+                <Image Height="20" Source="https://joarrhotfood.co.uk/wp-content/uploads/2019/07/Extra-cheese.jpg"/>
+                <Label x:Name="lblCheese">
+                    Extra Cheese
+                </Label>
+            </WrapPanel>
+        
+        </CheckBox>
+        <CheckBox  Margin="15 5" Name="cbPep" 
+                   Unchecked="cbTopingsCheckedChanged" 
+                   Checked="cbTopingsCheckedChanged"
+                   VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Height="20" Source="https://cdn.shopify.com/s/files/1/0510/9209/5157/products/Pizza_Pep_slate.jpg?v=1626828686"/>
+                <Label>Pepperoni</Label>
+            </WrapPanel>
+        </CheckBox>
+        <CheckBox  Margin="15 5" Name="cbTomato" 
+                   Unchecked="cbTopingsCheckedChanged"
+                   Checked="cbTopingsCheckedChanged"
+                   VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Height="20" Width="30" Source="https://www.seriouseats.com/thmb/G2T_CCvE7BirlG34NkzvsYQq8Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__09__20130926-kettle-pizza-baking-steel-new-22-64bc7c10837e431697d7f522dbdf1b24.jpg"/>
+                <Label>Tomato</Label>
+            </WrapPanel>    
+            
+        </CheckBox>
+        <CheckBox  
+            Margin="15 5" Name="cbMush"
+            Unchecked="cbTopingsCheckedChanged"
+            VerticalContentAlignment="Center"
+            Checked="cbTopingsCheckedChanged" >
+            <WrapPanel>
+                <Image Height="20" Width="30" Source="https://noblepig.com/images/2013/04/Cheesy-Four-Mushroom-White-Pizza.jpg"/>
+                <Label>Mushroom</Label>
+            </WrapPanel>
+            
+        </CheckBox>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="CheckBox Demonstration" Margin="0,20,10,20"
+FontFamily="Verdana" FontSize="18" FontWeight="Bold"
+Foreground="#FF5C9AC9" Grid.Row="0"/>
+
+            <CheckBox x:Name="cb1" Grid.Row="1" Margin="5,0,0,0"
+Content="Three-state CheckBox" IsThreeState="True"
+Checked="HandleCheck" Unchecked="HandleUnchecked"
+Indeterminate="HandleThirdState" />
+            <TextBlock x:Name="text1" Grid.Row="2" Margin="5,0,0,0" />
+        </Grid>
+
+    </StackPanel>
+    
+</Window>

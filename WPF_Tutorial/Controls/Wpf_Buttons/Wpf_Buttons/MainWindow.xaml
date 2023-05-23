@@ -1,0 +1,39 @@
+﻿<Window x:Class="Wpf_Buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Buttons"
+        mc:Ignorable="d"
+        Title="Buttons" Height="350" Width="500">
+    <StackPanel>
+
+        <Button Width="100" x:Name="myButton"
+                Background="Bisque"
+                ToolTip="Do not hesitate!!"
+                FontStyle="Italic"
+                FontWeight="Bold"
+                MouseEnter="myButton_MouseEnter" 
+                MouseLeave="myButton_MouseLeave"
+                MouseDoubleClick="myButton_MouseDoubleClick" 
+                Click="myButton_Click"> Click me !</Button>
+        <Label FontSize="25" x:Name="myLabel"> Hello There!</Label>
+        
+        <Button Name="btn1" Background="Pink" Margin="10 10 10 10" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="OnClick1" ClickMode="Hover">
+            ClickMe1
+        </Button>
+
+        <Button Name="btn2" Background="LightBlue"  Margin="10 10 10 10" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="OnClick2" ClickMode="Press">
+            ClickMe2
+        </Button>
+
+        <Button Name="btn3" Margin="10 10 10 10" 
+        Click="OnClick3" ClickMode="Release">
+            Reset
+        </Button>
+    </StackPanel>
+</Window>
