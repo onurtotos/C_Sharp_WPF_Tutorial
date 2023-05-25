@@ -1,5 +1,8 @@
 # C_Sharp_WPF_Tutorial
+
 WPF_C# tutorial for myself and anyone who would like to learn.
+
+For now, this repo is divided based on each of the repo content.
 
 The main reason behind this repo is to see how I am improving myself day-by-day.
 
