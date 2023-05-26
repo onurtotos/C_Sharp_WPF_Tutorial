@@ -2,6 +2,8 @@
 
 WPF_C# tutorial for myself and anyone who would like to learn.
 
+For now, this repo is divided based on each of the repo content.
+
 The main reason behind this repo is to see how I am improving myself day-by-day.
 
 Also, I would like to help anyone that wants to develop and learn something about WPF!
