@@ -1,0 +1,45 @@
+﻿<Window x:Class="Wpf_OpenF_Dialog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_OpenF_Dialog"
+        mc:Ignorable="d"
+        Title="Open_Save_FileDialog" Height="350" Width="600">
+    <ScrollViewer>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Center">
+
+                <Button 
+                Name="OpenFileButton"
+                Content="Open File"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Click="OpenFileButton_Click"
+                    Margin="5">
+                </Button>
+                
+                <Button 
+                Name="SaveFileButton"
+                Content="Save File"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Click="SaveFileButton_Click">
+
+                </Button>
+            </StackPanel>
+            <TextBox Name="myTextbox" Grid.Row="1">
+
+            </TextBox>
+
+
+        </Grid>
+    </ScrollViewer>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\bin\Debug\Wpf_OpenF_Dialog.exe.config
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\bin\Debug\Wpf_OpenF_Dialog.exe
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\bin\Debug\Wpf_OpenF_Dialog.pdb
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\MainWindow.g.cs
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\App.g.cs
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog_MarkupCompile.cache
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog_MarkupCompile.lref
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\MainWindow.baml
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.g.resources
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.Properties.Resources.resources
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.exe
+C:\Users\onurt\source\repos\Wpf_OpenF_Dialog\Wpf_OpenF_Dialog\obj\Debug\Wpf_OpenF_Dialog.pdb
